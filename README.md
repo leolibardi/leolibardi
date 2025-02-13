@@ -9,7 +9,7 @@ Além de programar, gosto de:
 
 ## 💻 Tecnologias & Ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Salesforce ADM](https://img.shields.io/badge/Salesforce%20ADM-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
