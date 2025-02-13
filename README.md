@@ -21,7 +21,7 @@ At the momento, i'm studing:
 
 ![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![LWC](https://img.shields.io/badge/LWC-0080FF?style=for-the-badge&logo=salesforce&logoColor=white)
-![Machine Learning & AI](https://img.shields.io/badge/Machine%20Learning%20%26%20AI-00B140?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Machine Learning & AI](https://img.shields.io/badge/Machine%20Learning%20%26%20AI-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
   
 ## 📊 Statistics
