@@ -5,7 +5,7 @@ In addition to programming, I like:
 - 🎧 Listen to music;
 - 🎮 Play games (PS5 and PC);
 - ⚽ Praticar esportes (Soccer, Football, Basketball etc);
-- 🌟 Learn new technologies and improve m skills.
+- 🌟 Learn new technologies and improve my skills.
 
 ## 💻 Tools & Technologies
 
