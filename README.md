@@ -1,10 +1,12 @@
-## 👋 Hello, nice to meet ou. My name is Leonardo, i'm 22 years old, and it's a pleasure to welcome you to my profile. 🚀
+## 👋 Hello, nice to meet you. It's a pleasure to welcome you to my profile. 🚀
 
-##👨‍🎓 About Me
+## 👨‍🎓 About Me
+My name is Leonardo, i'm 22 years old, Male.
+
 In addition to programming, I like:
 - 🎧 Listen to music;
 - 🎮 Play games (PS5 and PC);
-- ⚽ Praticar esportes (Soccer, Football, Basketball etc);
+- ⚽ Practice sports (Soccer, Football, Basketball etc);
 - 🌟 Learn new technologies and improve my skills.
 
 ## 💻 Tools & Technologies
