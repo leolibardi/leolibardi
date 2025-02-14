@@ -17,7 +17,7 @@ In addition to programming, I like:
 
 
 ## 📚 Learning
-At the momento, i'm studing:
+At this moment, i'm studing:
 
 ![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![LWC](https://img.shields.io/badge/LWC-0080FF?style=for-the-badge&logo=salesforce&logoColor=white)
