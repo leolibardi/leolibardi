@@ -1,4 +1,4 @@
-## 👋 Hello, nice to meet you. It's a pleasure to welcome you to my profile. 🚀
+## Leonado Munhoz Libardi
 
 ## 👨‍🎓 About Me
 My name is Leonardo, i'm 22 years old, Male.
