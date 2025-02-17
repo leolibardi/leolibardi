@@ -34,7 +34,7 @@ At this moment, i'm studing:
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="100" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=leolibardi&show_icons=true&theme=aura&include_all_commits=true&locale=pt-br" 
   />
@@ -42,7 +42,7 @@ At this moment, i'm studing:
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="100" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolibardi&theme=aura&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
