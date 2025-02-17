@@ -1,4 +1,8 @@
 ## Leonado Munhoz Libardi
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leo__libardi/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/leonardolibardieoq)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/leo_libardi19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leolibardi/)
 
 ## 👨‍🎓 About Me
 My name is Leonardo, i'm 22 years old, Male.
@@ -26,14 +30,21 @@ At this moment, i'm studing:
   
 ## 📊 Statistics
 
-![Libardi's GitHub stats](https://github-readme-stats.vercel.app/api?username=leolibardi&show_icons=true&theme=aura)
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=leolibardi&show_icons=true&theme=aura&include_all_commits=true&locale=pt-br" 
+  />
 
-![Libardi's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leolibardi&hide_progress=true&theme=aura)
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolibardi&theme=aura&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
+</p>
 
-
-### 🌎 Networking
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leo__libardi/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/leonardolibardieoq)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/leo_libardi19)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leolibardi/)
