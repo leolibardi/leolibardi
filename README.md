@@ -36,7 +36,7 @@ At this moment, i'm studing:
     alt="GitHub Stats" 
     height="170" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=leolibardi&show_icons=true&theme=aura&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=leolibardi&show_icons=true&theme=aura&include_all_commits=true&locale=en-us" 
   />
 
 <img 
