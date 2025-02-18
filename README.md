@@ -43,7 +43,7 @@ At this moment, i'm studing:
       align="left" 
       alt="GitHub Stats" 
       height="170" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolibardi&theme=aura&layout=compact&custom_title=Technologies&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolibardi&theme=aura&hide_progress=true&custom_title=Technologies&langs_count=9" 
   />
 
 </p>
