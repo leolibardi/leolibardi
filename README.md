@@ -27,24 +27,3 @@ At this moment, i'm studing:
 ![LWC](https://img.shields.io/badge/LWC-0080FF?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Machine Learning & AI](https://img.shields.io/badge/Machine%20Learning%20%26%20AI-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-  
-## 📊 Statistics
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=leolibardi&show_icons=true&theme=aura&include_all_commits=true" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolibardi&theme=aura&hide_progress=true&custom_title=Technologies&langs_count=9" 
-  />
-
-</p>
-
